@@ -1,1 +1,25 @@
-h3{color: blue;}
+h3 {color: white;}
+body {background-color:black;}
+p {color: aliceblue;}
+    a {color: aliceblue;}
+    h2 {color: aliceblue;}
+li {color: aliceblue;}
+ul {color: aliceblue;}
+td {color: aliceblue;}
+th {color: aliceblue;}
+td {border-radius: 5px;}
+img {border-radius: 15px;}
+h1 {color:aliceblue}
+#bmw img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+  #bmw {text-align: center ;}
+  #bmw {
+    background-image: url(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2dyYzhhN3k2b3Jrem1pYzJwamZkbjA4dHdxdnIzdGV1Z3NtMW56YyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/A77eslc10uPVYA4eNG/giphy.webp), url(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2dyYzhhN3k2b3Jrem1pYzJwamZkbjA4dHdxdnIzdGV1Z3NtMW56YyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/A77eslc10uPVYA4eNG/giphy.webp);
+    background-position: right bottom, left top;
+    background-repeat: no-repeat, repeat;
+    padding: 15px;
+  }
