@@ -18,8 +18,17 @@ h1 {color:aliceblue}
   }
   #bmw {text-align: center ;}
   #bmw {
-    background-image: url(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2dyYzhhN3k2b3Jrem1pYzJwamZkbjA4dHdxdnIzdGV1Z3NtMW56YyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/A77eslc10uPVYA4eNG/giphy.webp), url(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2dyYzhhN3k2b3Jrem1pYzJwamZkbjA4dHdxdnIzdGV1Z3NtMW56YyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/A77eslc10uPVYA4eNG/giphy.webp);
+    background-image: url(https://media0.giphy.com/media/126ub9tbJhoXh6/200.webp?cid=ecf05e471924didfg1u8elzfb2txr6obk0h8pm5l51j5haj8&ep=v1_gifs_search&rid=200.webp&ct=g); 
     background-position: right bottom, left top;
     background-repeat: no-repeat, repeat;
     padding: 15px;
+    background-size: 1400px;
   }
+  #ferrari {
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQATkKow-2836C4edfMtJ8PXHD_t58NcHvJQ&s);
+background-size:100px;
+  }
+#marea {text-align: center}
+#marea table {margin-left: auto;   margin-right: auto;}
+#marea {background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQATkKow-2836C4edfMtJ8PXHD_t58NcHvJQ&s);}
+#mercedes {background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQATkKow-2836C4edfMtJ8PXHD_t58NcHvJQ&sS);}
