@@ -1,0 +1,36 @@
+h3 {color: white;}
+body {background-color:black;}
+p {color: aliceblue;}
+    a {color: aliceblue;}
+    h2 {color: aliceblue;}
+li {color: aliceblue;}
+ul {color: aliceblue;}
+td {color: aliceblue;}
+th {color: aliceblue;}
+td {border-radius: 5px;}
+img {border-radius: 15px;}
+h1 {color:aliceblue}
+#bmw img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+  #bmw {text-align: center ;}
+  #bmw {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQATkKow-2836C4edfMtJ8PXHD_t58NcHvJQ&s); 
+    background-position: left;
+    background-size:3000px;
+    background-repeat: no-repeat, repeat;
+    padding: 15px;
+    
+  }
+  #ferrari {
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQATkKow-2836C4edfMtJ8PXHD_t58NcHvJQ&s);
+background-size:100px;
+  }
+#marea {text-align: center}
+#marea table {margin-left: auto;   margin-right: auto;}
+#marea {background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQATkKow-2836C4edfMtJ8PXHD_t58NcHvJQ&s);}
+#mercedes {background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQATkKow-2836C4edfMtJ8PXHD_t58NcHvJQ&sS);}
+h1 {text-align: center;}
