@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-19T10:51:22.474Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Ba1WhOcpTO3fJ6-hXQot" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-19T10:52:13.576Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="uXNgmeK7fHGxr1NvYkfF" version="24.2.5" type="github">
   <diagram name="Página-1" id="9leVNyyh8nXxiI5HxBR6">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4pV4aEhpbha6aoti635U-15" value="Currículo online" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="275" y="90" width="290" height="30" as="geometry" />
+          <mxGeometry x="269" y="90" width="290" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
